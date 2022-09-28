@@ -7,7 +7,7 @@ version: "3"
 
 services:
   kentong:
-    image: mwafa/kentong
+    image: ghcr.io/mwafa/kentong
     ports:
       - 39000:39000/udp
 ```
